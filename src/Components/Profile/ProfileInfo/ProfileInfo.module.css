@@ -1,0 +1,12 @@
+.avatar img {
+  width: 20px;
+  padding: 10px;
+  }
+
+.backimage img {
+  width: 75%;
+}
+
+.item {
+    color: rgb(0, 128, 58);
+  }
